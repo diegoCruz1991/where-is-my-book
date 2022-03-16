@@ -10,7 +10,10 @@ Node version used v14.17.0
 
 ### `npm install`
 
-Create an `.env.local` file at root and add the key/values mentioned in the comments
+Create an `.env.local` file at root and add the key/values mentioned in the comments (Update: Forgot to add them in the comments, these are the key/values) 
+REACT_APP_OPEN_LIBRARY_URL=https://openlibrary.org
+REACT_APP_DEBUG_MODE=true
+REACT_APP_PAGE_SIZE=15
 
 ## Available Scripts
 
