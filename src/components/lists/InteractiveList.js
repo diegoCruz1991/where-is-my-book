@@ -1,3 +1,4 @@
+import "../../css/Content.css";
 import { Component } from "react";
 import { ListGroup, Container, Row, Pagination } from "react-bootstrap";
 
@@ -74,6 +75,7 @@ class InteractiveList extends Component {
       names.push(
         <ListGroup.Item
           onClick={this.onClick}
+          className="Item"
           active={active}
           id={key}
           key={key}
