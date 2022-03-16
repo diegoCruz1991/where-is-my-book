@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.Footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(167, 164, 164);
+  color: white;
+  text-align: center;
+}
+
+
